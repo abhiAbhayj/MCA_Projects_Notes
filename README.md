@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I am currently pursuing my Master of Computer Appl
 
 - **Master of Computer Applications (MCA)**
   - [MAHE Manipal], [2026]
-  - Core subjects: Programming, Software Development, Database Management, System Analysis
+  - Core subjects: Python, Software Engineering, Database Management, Data Analytics,Computer Networks,ML
 
 ## 💡 What I’m Learning
 
 - Advanced programming concepts in languages like Python, Java, and JavaScript
-- Web development using frameworks such as React and Node.js
-- Database design and management (SQL, MongoDB)
-- Fundamentals of cybersecurity and cloud computing
+- Web development 
+- Database design and management (SQL)
+
 
 ## 🚀 Career Aspirations
 
@@ -30,7 +30,7 @@ I am open to exploring roles such as Software Developer, Web Developer, Data Ana
 
 - Programming: Python, Java, JavaScript, C++
 - Web Technologies: HTML, CSS
-- Databases: SQL, MongoDB
+- Databases: SQL
 - Tools: Git, VS Code, Linux
 
 ## 🌱 Outside the Classroom
