@@ -41,8 +41,7 @@ Apart from academics,I enjoy:
 - **Learning New Things:** Continuously expanding my knowledge in both tech and non-tech areas
 - **Mini Projects:** Building small games and experimenting with new ideas to sharpen my coding skills
 
-- ## 🏆 Achievements
-
+## 🏆 Achievements
 - ✅ Attended a Red Cross Camp as part of community health awareness during college.
 - 🤝 Volunteered in various National Service Scheme (N.S.S.) activities contributing to social development initiatives.
 
